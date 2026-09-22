@@ -1,0 +1,6 @@
+{
+  "name": "Camera",
+  "description": "Native Android camera application with CameraX, MediaStore integration, Photo, Portrait, Night, and Video modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
